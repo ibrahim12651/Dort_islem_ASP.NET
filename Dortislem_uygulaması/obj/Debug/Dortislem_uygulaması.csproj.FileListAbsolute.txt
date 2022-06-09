@@ -1,0 +1,8 @@
+C:\Users\LAB306PC1\Desktop\Dortislem_uygulaması\Dortislem_uygulaması\bin\Dortislem_uygulaması.dll
+C:\Users\LAB306PC1\Desktop\Dortislem_uygulaması\Dortislem_uygulaması\bin\Dortislem_uygulaması.pdb
+C:\Users\LAB306PC1\Desktop\Dortislem_uygulaması\Dortislem_uygulaması\obj\Debug\Dortislem_uygulaması.dll
+C:\Users\LAB306PC1\Desktop\Dortislem_uygulaması\Dortislem_uygulaması\obj\Debug\Dortislem_uygulaması.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\Dortislem_uygulaması\Dortislem_uygulaması\bin\Dortislem_uygulaması.dll
+C:\Users\ibrah\OneDrive\Masaüstü\Dortislem_uygulaması\Dortislem_uygulaması\bin\Dortislem_uygulaması.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\Dortislem_uygulaması\Dortislem_uygulaması\obj\Debug\Dortislem_uygulaması.dll
+C:\Users\ibrah\OneDrive\Masaüstü\Dortislem_uygulaması\Dortislem_uygulaması\obj\Debug\Dortislem_uygulaması.pdb
